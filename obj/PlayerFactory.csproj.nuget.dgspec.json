@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Работа наС#\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj": {}
+    "C:\\Users\\Step09-15\\Desktop\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj": {}
   },
   "projects": {
-    "E:\\Работа наС#\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj": {
+    "C:\\Users\\Step09-15\\Desktop\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Работа наС#\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj",
+        "projectUniqueName": "C:\\Users\\Step09-15\\Desktop\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj",
         "projectName": "PlayerFactory",
-        "projectPath": "E:\\Работа наС#\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj",
+        "projectPath": "C:\\Users\\Step09-15\\Desktop\\PlayerFactory\\PlayerFactory\\PlayerFactory.csproj",
         "packagesPath": "C:\\Users\\Step09-15\\.nuget\\packages\\",
-        "outputPath": "E:\\Работа наС#\\PlayerFactory\\PlayerFactory\\obj\\",
+        "outputPath": "C:\\Users\\Step09-15\\Desktop\\PlayerFactory\\PlayerFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Step09-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
